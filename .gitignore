@@ -1,0 +1,3 @@
+.envo/bin/
+.envo/env-snapshot.*
+.envo/bin-map.json

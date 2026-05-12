@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "nixpkgs_revision": "0a0bf409f3593f415d0a554f33acc63dc7dccb43",
+  "manifest_hash": "b3989e1ed09870349c5e5cd2dbfd5d3c3943151ffb1bb8da9ec1feb47b8e604d",
+  "packages": {
+    "ripgrep": {
+      "systems": {
+        "aarch64-linux": {
+          "store_path": "/nix/store/jni4f23vaph0aiz3cmazzbd7bbyg9630-ripgrep-15.1.0",
+          "resolved_attr": "ripgrep"
+        }
+      }
+    }
+  }
+}

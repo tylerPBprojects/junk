@@ -1,0 +1,14 @@
+[project]
+name = "junk"
+
+[packages]
+ripgrep = "*"
+
+[vars]
+
+[services]
+
+[options]
+nixpkgs-channel = "nixpkgs"
+allow-unfree = false
+systems = []
